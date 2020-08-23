@@ -28,6 +28,8 @@
 ###### How about some stats
 <div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-royal&show_icons=true" alt="rajesh-royal" /></div>
 <br/>
+
+### Social Media
 <p align="center">
 <a href="https://codepen.io/rajesh-royal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rajesh-royal" height="30" width="30" /></a>
 <a href="https://dev.to/rajeshroyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rajeshroyal" height="30" width="30" /></a>
