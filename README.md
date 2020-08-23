@@ -27,7 +27,7 @@
 
 <div align="left"><img align="left" class="mt-3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-royal&layout=compact&hide=html" alt="rajesh-royal" /></div>
 <br/>
-<div>------------------------------</div>
+<p align="left" height="100px">How about some Stats</p>
 <br/>
 <div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-royal&show_icons=true" alt="rajesh-royal" /></div>
 
