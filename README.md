@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Royal</h1>
-<h3 align="center">Designer and Front-end Developer from <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png1000/in.png" alt="codeigniter" width="40" height="40"/> </h3>
+<h3 align="center" align-items="center">Designer and Front-end Developer from <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png1000/in.png" alt="codeigniter" width="20" height="20"/> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-royal" alt="rajesh-royal" /> </p>
 
